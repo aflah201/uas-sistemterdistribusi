@@ -1,0 +1,8 @@
+I:\Project C#\UAS2022\chat\chat\obj\Debug\chat.csprojResolveAssemblyReference.cache
+I:\Project C#\UAS2022\chat\chat\obj\Debug\chat.Form1.resources
+I:\Project C#\UAS2022\chat\chat\obj\Debug\chat.Properties.Resources.resources
+I:\Project C#\UAS2022\chat\chat\obj\Debug\chat.csproj.GenerateResource.Cache
+I:\Project C#\UAS2022\chat\chat\bin\Debug\chat.exe
+I:\Project C#\UAS2022\chat\chat\bin\Debug\chat.pdb
+I:\Project C#\UAS2022\chat\chat\obj\Debug\chat.exe
+I:\Project C#\UAS2022\chat\chat\obj\Debug\chat.pdb

@@ -1,0 +1,4 @@
+I:\Project C#\UAS2022\chat_server\chat_server\bin\Debug\chat_server.exe
+I:\Project C#\UAS2022\chat_server\chat_server\bin\Debug\chat_server.pdb
+I:\Project C#\UAS2022\chat_server\chat_server\obj\Debug\chat_server.exe
+I:\Project C#\UAS2022\chat_server\chat_server\obj\Debug\chat_server.pdb
